@@ -1,5 +1,5 @@
 {
-    "message_id": 2489,
+    "message_id": 5,
     "from": {
         "id": 334234686,
         "is_bot": false,
@@ -15,6 +15,6 @@
         "username": "Nmoneta",
         "type": "private"
     },
-    "date": 1680540740,
-    "text": "Автобус"
+    "date": 1680542452,
+    "text": "Троллейбус"
 }

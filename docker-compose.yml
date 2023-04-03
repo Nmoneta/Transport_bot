@@ -6,3 +6,5 @@ services:
     restart: always
     volumes:
       - "./bot:/code"
+    env_file:
+      - ./environment

@@ -1,8 +1,10 @@
 import telebot
-import json
+import json, os
 from telebot import types
 import ParserHTML
-bot = telebot.TeleBot('5701694088:AAGmCXCuS0ZLutCiyyrqN_Z90HolscmT71o')
+
+
+bot = telebot.TeleBot(os.environ.get('TRANSPORT_TGBOT_TOKEN'))
 
 
 def markup_Reply_transport_button():
