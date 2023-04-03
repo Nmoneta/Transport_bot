@@ -1,0 +1,48 @@
+{
+  "response": {
+    "1": [
+      "https://m.igis-transport.ru/izh/tram/1/forward?",
+      "https://m.igis-transport.ru/izh/tram/1/back?"
+    ],
+    "2": [
+      "https://m.igis-transport.ru/izh/tram/2/forward?",
+      "https://m.igis-transport.ru/izh/tram/2/back?"
+    ],
+    "3": [
+      "https://m.igis-transport.ru/izh/tram/3/forward?",
+      "https://m.igis-transport.ru/izh/tram/3/back?"
+    ],
+    "4": [
+      "https://m.igis-transport.ru/izh/tram/4/forward?",
+      "https://m.igis-transport.ru/izh/tram/4/back?"
+    ],
+    "5": [
+      "https://m.igis-transport.ru/izh/tram/5/forward?",
+      "https://m.igis-transport.ru/izh/tram/5/back?"
+    ],
+    "7": [
+      "https://m.igis-transport.ru/izh/tram/7/forward?",
+      "https://m.igis-transport.ru/izh/tram/7/back?"
+    ],
+    "8": [
+      "https://m.igis-transport.ru/izh/tram/8/forward?",
+      "https://m.igis-transport.ru/izh/tram/8/back?"
+    ],
+    "9": [
+      "https://m.igis-transport.ru/izh/tram/9/forward?",
+      "https://m.igis-transport.ru/izh/tram/9/back?"
+    ],
+    "10": [
+      "https://m.igis-transport.ru/izh/tram/10/forward?",
+      "https://m.igis-transport.ru/izh/tram/10/back?"
+    ],
+    "11": [
+      "https://m.igis-transport.ru/izh/tram/11/forward?",
+      "https://m.igis-transport.ru/izh/tram/11/back?"
+    ],
+    "12": [
+      "https://m.igis-transport.ru/izh/tram/12/forward?",
+      "https://m.igis-transport.ru/izh/tram/12/back?"
+    ]
+  }
+}
